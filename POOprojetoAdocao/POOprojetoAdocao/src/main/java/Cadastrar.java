@@ -1,0 +1,1 @@
+Indique alguns dos arquivos que são responsáveis ​​pela interface do usuário do seu sistema (ex: classes que estendem JFrame ou páginas Web onde estão menus e botões) e os drivers
